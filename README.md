@@ -1,4 +1,4 @@
-### Paper about ML-approach in PDE solving
+### Paper about AI/ML-approach in PDE solving
 
 | No. | Title | Link | GitHub/Code Link | Info |
 |-----|-------|------|------------------|----------------|
