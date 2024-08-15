@@ -17,9 +17,9 @@
 | 13  | HAMLET: Graph Transformer Neural Operator for Partial Differential Equations | [Link](https://arxiv.org/pdf/2402.03541) | *Code link currently not available* | arXiv:2402.03541v1 [cs.LG] 5 Feb 2024 |
 | 14  | Physics informed token transformer for solving partial differential equations | [Link](https://iopscience.iop.org/article/10.1088/2632-2153/ad27e3/pdf) |  [GitHub/Code Link](https://github.com/BaratiLab/PhysicsInformedTokenTransformer/tree/master) | Mach. Learn.: Sci. Technol 21 Feb 2024 |
 | 15  | Multi-scale time-stepping of Partial Differential Equations with transformers | [Link](https://www.sciencedirect.com/science/article/pii/S0045782524002391?ref=pdf_download&fr=RR-2&rr=8b2624013d22a229) | [GitHub/Code Link](https://github.com/BaratiLab/MST_PDE) | Computer Methods in Applied Mechanics and Engineering 01 Jun 2024  |
-| 16  | Unisolver: PDE-Conditional Transformers Are Universal PDE Solvers | [Link](https://arxiv.org/pdf/2405.17527) | *No code link available* | arXiv:2405.17527v2 [cs.LG] 1 Jun 2024 |
-| 17  | Self-supervised Pretraining for Partial Differential Equations | [Link](https://www.arxiv.org/pdf/2407.06209) | *No code link available* | arXiv:2407.06209v1 [cs.LG] 3 Jul 2024 |
-| 18  | ViTO: Vision Transformer-Operator | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0045782524003657) | *No code link available* | Computer Methods in Applied Mechanics and Engineering 01 Aug 2024 |
+| 16  | Unisolver: PDE-Conditional Transformers Are Universal PDE Solvers | [Link](https://arxiv.org/pdf/2405.17527) | *Code link currently not available* | arXiv:2405.17527v2 [cs.LG] 1 Jun 2024 |
+| 17  | Self-supervised Pretraining for Partial Differential Equations | [Link](https://www.arxiv.org/pdf/2407.06209) | *Code link currently not available* | arXiv:2407.06209v1 [cs.LG] 3 Jul 2024 |
+| 18  | ViTO: Vision Transformer-Operator | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0045782524003657) | *Code link currently not available* | Computer Methods in Applied Mechanics and Engineering 01 Aug 2024 |
 
 
 
