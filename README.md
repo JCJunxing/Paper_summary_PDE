@@ -22,4 +22,3 @@
 | 18  | Neural Operators for Solving PDEs in High Dimensions                                                       | [Link](https://www.sciencedirect.com/science/article/abs/pii/S0045782524003657)                                          |
 | 19  | A Survey on Physics-Informed Deep Learning Models for Solving Partial Differential Equations               | [Link](https://arxiv.org/pdf/2403.03542)                                                                                 |
 
-More
